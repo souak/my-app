@@ -7,7 +7,7 @@ import Game from './Game';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <Game />,
+  <Game />,                           //this line load the main file of the game
   document.getElementById('root')
 );
 
